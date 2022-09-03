@@ -1,4 +1,6 @@
-- 📫 As I'm sick to deah of resetting your locker codes, they are backed up here. Don't leave anything valuable in them. 
+- 📫 To those that 'opted in'.
+
+As I'm sick to deah of resetting your locker codes, they are backed up here. Don't leave anything valuable in them. 
 
 Regards.
 
