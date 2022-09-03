@@ -4,11 +4,11 @@ Regards.
 
 Your Janitor.
 
-- Briggs 1950
-- Hayter 2779
-- Patel 2152
-- Sing 5566
-- Bridge 9292
+- Briggs - 1950
+- Hayter - 2779
+- Patel - 2152
+- Sing - 5566
+- Bridge - 9292
 
 <!---
 UACRedark/UACRedark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
