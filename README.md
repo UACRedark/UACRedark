@@ -12,7 +12,7 @@ Carl (Your Janitor)
 - Sing - 5566
 - Bridge - 9292
 
-  PS. I've put all the clocks back/
+PS. I've put all the clocks back/
 
 <!---
 UACRedark/UACRedark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
